@@ -1,0 +1,1 @@
+SMAC is conversion tool between two modes of transmission : canonical and flash
